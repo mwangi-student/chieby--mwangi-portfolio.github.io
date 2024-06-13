@@ -60,7 +60,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Mwangi Brian";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            $("#favicon").attr("href", "assets/skills/");
         }
         else {
             document.title = "Come Back To Portfolio";
