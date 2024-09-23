@@ -35,7 +35,7 @@ To view or modify this project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/chieby-mwangi/chieby-mwangi.github.io
+   git clone https://github.com/mwangi-student/chieby--mwangi-portfolio.github.io
    ```
 
 2. **Navigate to the Project Directory:**
